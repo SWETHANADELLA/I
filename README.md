@@ -1,0 +1,2 @@
+# I
+Everyone in our daily life while we are travelling in train we will face the situation where we will know the train timings and we will go to the station some time before, but at times the train may arrive at that time or there may be some delay. To reduce the stress of when and where the train will arrive we have one solution that is “DTMF AND INTERNET OF THINGS BASED TRAIN INFORMATION SYSTEM “. 
